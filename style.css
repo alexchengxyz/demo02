@@ -125,6 +125,7 @@ section {
   padding-bottom: 2rem;
 }
 .home .text:nth-child(4) {
+  font-size: 2.75rem;
   width: 240px;
 }
 @media (min-width: 768px) {
